@@ -1,4 +1,4 @@
-% Runing ncdf2mat.m could automatically store data in your netcdf file to
+% Running ncdf2mat.m could automatically store data in your netcdf file to
 % mat file in MATLAB. The name of mat file would be consistent with the
 % variable name in netcdf file.
 
